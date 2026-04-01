@@ -19,10 +19,10 @@ VV repeated N times
 Synopsis:
 ```
 For Decompress:
-Tileset_editor.py decompress -r <ROM> -f <OutputFile> -o <Offset> -s "Size"
+tileset_editor.py decompress -r <ROM> -f <OutputFile> -o <Offset> -s "Size"
 
 For Compress:
-Tileset_editor.py compress -r <ROM> -f <OutputFile> -o <Offset> -s "Size" [--fill <fillByte>]
+tileset_editor.py compress -r <ROM> -f <OutputFile> -o <Offset> -s "Size" [--fill <fillByte>]
 ```
 
 ## Frecuency Answer Questions
